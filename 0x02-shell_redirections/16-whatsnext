@@ -1,2 +1,2 @@
 #!/bin/bash
-greg -i "root" | head -3
+greg -i "root" /etc/passwd | head -3
